@@ -90,7 +90,7 @@ function Pools() {
         97: {
             chainId: 97,
             chianName: "BSC Testnet",
-            explorer: "https://bscscan.com/tx/",
+            explorer: "https://testnet.bscscan.com/tx/",
             rpc: "https://data-seed-prebsc-1-s1.binance.org:8545/",
             receiverContract: "0x7ff62c41a99dcf968395cc47eaa5014efd9b3a4b",
             hashiPoolContract: "0xd4B71e9D524FB4925c8C3044b45f5FdABbad976e",
